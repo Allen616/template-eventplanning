@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Allen616/template-eventplanning.png?label=ready&title=Ready)](https://waffle.io/Allen616/template-eventplanning)
 # template-eventplanning
 This is a template for future Friendly Code event planning.
 
